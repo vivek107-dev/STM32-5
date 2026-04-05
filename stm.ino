@@ -1,4 +1,3 @@
-
 #include <Wire.h>
 #include <U8g2lib.h>
 #include <DHT.h>
@@ -8,7 +7,6 @@
 #define DHTPIN PA0
 #define DHTTYPE DHT11
 
-// Motor driver pins
 #define IN1 PB10
 #define IN2 PB11
 

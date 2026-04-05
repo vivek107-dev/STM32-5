@@ -108,7 +108,7 @@ void loop() {
 
       Serial1.println("DHT11 Error");
     }
-
+    
   } 
   else {
 
